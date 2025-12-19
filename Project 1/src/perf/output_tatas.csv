@@ -1,0 +1,16 @@
+number,program_name,threads_number,compilation_time
+0,test_and_test_and_set_philosoph,2,.508
+0,test_and_test_and_set_philosoph,4,.421
+0,test_and_test_and_set_philosoph,8,.411
+0,test_and_test_and_set_philosoph,16,.413
+0,test_and_test_and_set_philosoph,32,.427
+1,test_and_test_and_set_prod_cons,2,.298
+1,test_and_test_and_set_prod_cons,4,.464
+1,test_and_test_and_set_prod_cons,8,.769
+1,test_and_test_and_set_prod_cons,16,1.833
+1,test_and_test_and_set_prod_cons,32,1.820
+2,test_and_test_and_set_reader_writer,2,.187
+2,test_and_test_and_set_reader_writer,4,.084
+2,test_and_test_and_set_reader_writer,8,.065
+2,test_and_test_and_set_reader_writer,16,.054
+2,test_and_test_and_set_reader_writer,32,.054

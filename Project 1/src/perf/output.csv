@@ -1,0 +1,16 @@
+number,program_name,threads_number,compilation_time
+0,philosoph,2,2.466
+0,philosoph,4,2.400
+0,philosoph,8,2.436
+0,philosoph,16,2.417
+0,philosoph,32,2.339
+1,prod_cons,2,.472
+1,prod_cons,4,.441
+1,prod_cons,8,.610
+1,prod_cons,16,.600
+1,prod_cons,32,.574
+2,reader_writer,2,.153
+2,reader_writer,4,.050
+2,reader_writer,8,.045
+2,reader_writer,16,.056
+2,reader_writer,32,.046

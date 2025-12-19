@@ -1,0 +1,1 @@
+Hello, this is the second file of my test directory.

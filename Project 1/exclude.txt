@@ -1,0 +1,11 @@
+.DS_Store
+*.o
+*.zip
+*.log
+*.tmp
+__MACOSX/*
+build/*
+node_modules/*
+*.out
+*.exe
+.git/*

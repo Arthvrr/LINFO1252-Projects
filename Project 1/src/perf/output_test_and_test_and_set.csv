@@ -1,0 +1,6 @@
+program_name,threads_number,compilation_time
+test_and_test_and_set_main,2,.176
+test_and_test_and_set_main,4,.038
+test_and_test_and_set_main,8,.038
+test_and_test_and_set_main,16,.038
+test_and_test_and_set_main,32,.038
